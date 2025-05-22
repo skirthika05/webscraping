@@ -28,5 +28,5 @@ A Python-based web scraper that extracts recently registered Indian company info
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/zaubacorp-scraper.git
+git clone https://github.com/skirthika05/webscraping.git
 cd zaubacorp-scraper
